@@ -1,0 +1,5 @@
+<?php
+function minus(int $a, int $B): int
+{
+    return $a - $b;
+}
